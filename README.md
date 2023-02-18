@@ -1,6 +1,6 @@
 # final
 Introduction:
-Link for YOUTUBE video:
+Link for YOUTUBE video: https://www.youtube.com/watch?v=NL-aqSnq7CU
 
 Link for the Another solutions: 
 1. https://github.com/HasibAlMuzdadid/Recommender-Systems/blob/main/book%20recommender%20system/book%20recommender%20system.ipynb
